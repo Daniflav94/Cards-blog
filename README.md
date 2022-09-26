@@ -1,6 +1,6 @@
 # Cards-blog
 
-Página de Cards estilo notícias de blog para praticar conceitos de CSS como o flexbox.
+Página de Cards com notícias para praticar conceitos de CSS como o flexbox.
 
 ### 📌 Tecnologias utilizadas:
 
